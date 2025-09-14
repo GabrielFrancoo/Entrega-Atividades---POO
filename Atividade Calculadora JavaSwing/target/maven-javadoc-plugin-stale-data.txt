@@ -1,0 +1,44 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'windows-1252'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/Gabriel Franco/Documents/Faculdade/Quarto período/Primeiro Bimestre/Programação orientada a objeto - Thalyse.duarte/Atividade Calculadora JavaSwing/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Gabriel Franco/Documents/Faculdade/Quarto período/Primeiro Bimestre/Programação orientada a objeto - Thalyse.duarte/Atividade Calculadora JavaSwing/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'calculadora 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'calculadora 1.0-SNAPSHOT API'
+br.com.gabriel.calculadora
+C:\Users\Gabriel Franco\Documents\Faculdade\Quarto período\Primeiro Bimestre\Programação orientada a objeto - Thalyse.duarte\Atividade Calculadora JavaSwing\src\main\java = 1754778657285
+C:\Users\Gabriel Franco\Documents\Faculdade\Quarto período\Primeiro Bimestre\Programação orientada a objeto - Thalyse.duarte\Atividade Calculadora JavaSwing\target\reports\apidocs\allclasses-index.html = 1754837696866
+C:\Users\Gabriel Franco\Documents\Faculdade\Quarto período\Primeiro Bimestre\Programação orientada a objeto - Thalyse.duarte\Atividade Calculadora JavaSwing\target\reports\apidocs\allpackages-index.html = 1754837696870
+C:\Users\Gabriel Franco\Documents\Faculdade\Quarto período\Primeiro Bimestre\Programação orientada a objeto - Thalyse.duarte\Atividade Calculadora JavaSwing\target\reports\apidocs\element-list = 1754837696823
+C:\Users\Gabriel Franco\Documents\Faculdade\Quarto período\Primeiro Bimestre\Programação orientada a objeto - Thalyse.duarte\Atividade Calculadora JavaSwing\target\reports\apidocs\help-doc.html = 1754837696893
+C:\Users\Gabriel Franco\Documents\Faculdade\Quarto período\Primeiro Bimestre\Programação orientada a objeto - Thalyse.duarte\Atividade Calculadora JavaSwing\target\reports\apidocs\index-all.html = 1754837696886
+C:\Users\Gabriel Franco\Documents\Faculdade\Quarto período\Primeiro Bimestre\Programação orientada a objeto - Thalyse.duarte\Atividade Calculadora JavaSwing\target\reports\apidocs\index.html = 1754837696889
+C:\Users\Gabriel Franco\Documents\Faculdade\Quarto período\Primeiro Bimestre\Programação orientada a objeto - Thalyse.duarte\Atividade Calculadora JavaSwing\target\reports\apidocs\jquery-ui.overrides.css = 1754837696911
+C:\Users\Gabriel Franco\Documents\Faculdade\Quarto período\Primeiro Bimestre\Programação orientada a objeto - Thalyse.duarte\Atividade Calculadora JavaSwing\target\reports\apidocs\member-search-index.js = 1754837696878
+C:\Users\Gabriel Franco\Documents\Faculdade\Quarto período\Primeiro Bimestre\Programação orientada a objeto - Thalyse.duarte\Atividade Calculadora JavaSwing\target\reports\apidocs\module-search-index.js = 1754837696872
+C:\Users\Gabriel Franco\Documents\Faculdade\Quarto período\Primeiro Bimestre\Programação orientada a objeto - Thalyse.duarte\Atividade Calculadora JavaSwing\target\reports\apidocs\overview-tree.html = 1754837696856
+C:\Users\Gabriel Franco\Documents\Faculdade\Quarto período\Primeiro Bimestre\Programação orientada a objeto - Thalyse.duarte\Atividade Calculadora JavaSwing\target\reports\apidocs\package-search-index.js = 1754837696874
+C:\Users\Gabriel Franco\Documents\Faculdade\Quarto período\Primeiro Bimestre\Programação orientada a objeto - Thalyse.duarte\Atividade Calculadora JavaSwing\target\reports\apidocs\script.js = 1754837696897
+C:\Users\Gabriel Franco\Documents\Faculdade\Quarto período\Primeiro Bimestre\Programação orientada a objeto - Thalyse.duarte\Atividade Calculadora JavaSwing\target\reports\apidocs\search.js = 1754837696899
+C:\Users\Gabriel Franco\Documents\Faculdade\Quarto período\Primeiro Bimestre\Programação orientada a objeto - Thalyse.duarte\Atividade Calculadora JavaSwing\target\reports\apidocs\stylesheet.css = 1754837696895
+C:\Users\Gabriel Franco\Documents\Faculdade\Quarto período\Primeiro Bimestre\Programação orientada a objeto - Thalyse.duarte\Atividade Calculadora JavaSwing\target\reports\apidocs\tag-search-index.js = 1754837696879
+C:\Users\Gabriel Franco\Documents\Faculdade\Quarto período\Primeiro Bimestre\Programação orientada a objeto - Thalyse.duarte\Atividade Calculadora JavaSwing\target\reports\apidocs\type-search-index.js = 1754837696875
